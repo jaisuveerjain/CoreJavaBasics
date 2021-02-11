@@ -25,6 +25,8 @@ public class TypeCasting {
 		System.out.println("\n");
 		
 		System.out.println("Explicit Type Casting");
+		
+		
 		//explicit conversion
 		
 		double x=45.5;
